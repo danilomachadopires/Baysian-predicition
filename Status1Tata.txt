@@ -1,0 +1,17 @@
+﻿Player	Rating	Deviation	Games	Win	Draw	Loss	Lag
+Abdusattorov_Nodirbek	2713	10	0	0	0	0	0
+Aronian_Levon	2735	10	0	0	0	0	0
+Carlsen_Magnus	2859	10	0	0	0	0	0
+Caruana_Fabiano	2766	10	0	0	0	0	0
+Ding_Liren	2811	10	0	0	0	0	0
+Erigaisi_Arjun	2722	10	0	0	0	0	0
+Giri_Anish	2764	10	0	0	0	0	0
+Gukesh_D	2725	10	0	0	0	0	0
+Keymer_Vincent	2696	10	0	0	0	0	0
+Maghsoodloo_Parham	2719	10	0	0	0	0	0
+Praggnanandhaa_R	2684	10	0	0	0	0	0
+Rapport_Richard	2740	10	0	0	0	0	0
+So_Wesley	2760	10	0	0	0	0	0
+Van_Foreest_Jorden	2681	10	0	0	0	0	0
+
+
